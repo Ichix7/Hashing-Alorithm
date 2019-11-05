@@ -1,0 +1,7 @@
+C:\Users\winde\source\repos\Winden_Assignment12\Winden_Assignment12\bin\Debug\Winden_Assignment12.exe.config
+C:\Users\winde\source\repos\Winden_Assignment12\Winden_Assignment12\bin\Debug\Winden_Assignment12.exe
+C:\Users\winde\source\repos\Winden_Assignment12\Winden_Assignment12\bin\Debug\Winden_Assignment12.pdb
+C:\Users\winde\source\repos\Winden_Assignment12\Winden_Assignment12\obj\Debug\Winden_Assignment12.csprojResolveAssemblyReference.cache
+C:\Users\winde\source\repos\Winden_Assignment12\Winden_Assignment12\obj\Debug\Winden_Assignment12.csproj.CoreCompileInputs.cache
+C:\Users\winde\source\repos\Winden_Assignment12\Winden_Assignment12\obj\Debug\Winden_Assignment12.exe
+C:\Users\winde\source\repos\Winden_Assignment12\Winden_Assignment12\obj\Debug\Winden_Assignment12.pdb
